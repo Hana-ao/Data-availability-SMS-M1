@@ -17,18 +17,28 @@ L'objectif principal du mémoire était de réaliser une cartographie exploratoi
 - Workflow du projet
 
 Étape 1 : Extraction des critères bruts (Grille-d'extraction-finale.xlsx)
+
 ↓
+
 Étape 2 : Regroupement automatique des critères (generate-clusters.py → Clusters_par_critereEN.xlsx)
+
 ↓
+
 Étape 2' : Tentative manuelle de classification (Clusters_par_critereEN-phase-préli.xlsx)
+
 ↓
+
 Étape 3 : Classification finale 
+
 ↓
+
 La classification finale des 16 catégories est disponible dans l'annexe A du mémoire. 
 
 
 Étape 4 : Identification des "top-critères", les plus mentionnés (à l'aide de : Grille_SMS_avec_colonnes_categorisees.xlsx + Annexe A)
+
 ↓
+
 Analyse des top-critères et des contributions (Sections 3.5 et 3.6 du mémoire : 3.5 Identification des sous-concepts clés prédominants (“Top Critères”), 3.6 Qualité et nature des contributions des sources pour les sous-concepts clés)
 
 
