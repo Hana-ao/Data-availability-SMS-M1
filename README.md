@@ -14,7 +14,7 @@ L'objectif principal du mémoire était de réaliser une cartographie exploratoi
 - **Clusters_par_critereEN-phase-préli.xlsx** : Début de classification manuelle des critères, à l'aide du fichier Clusters_par_critereEN.xlsx.
 - **Grille_SMS_avec_colonnes_categorisees.xlsx** : Fichier aidant à la réalisation de nombreux graphiques, ainsi qu'aux sections 3.5, 3.6.
 
-- Workflow du projet
+Workflow du projet
 
 Étape 1 : Extraction des critères bruts (Grille-d'extraction-finale.xlsx)
 
@@ -49,7 +49,7 @@ Ce travail s’appuie notamment sur :
 - Kitchenham et Charters (2007) – Guidelines for performing Systematic Literature Reviews in Software Engineering
 - Petersen et al. (2008) – Systematic Mapping Studies in Software Engineering
 
-- Utilisation
+Utilisation
   
 Téléchargez le dépôt ou clonez-le :
 
