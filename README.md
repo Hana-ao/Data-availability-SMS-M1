@@ -2,7 +2,7 @@
 
 ## Critères d'évaluation d'une démarche DevOps : panorama des dimensions de qualité, performance et sécurité
 
-Ce dépôt contient les données et les fichiers de travail utilisés pour la réalisation du mémoire de Master 1 de **Hana Ouraghene**, intitulé "Critères d'évaluation d'une démarche DevOps : panorama des dimensions de qualité, performance et sécurité". Ce mémoire a été réalisé dans le cadre du Master MIAGE (apprentissage) de l'Université Paris Nanterre.
+Ce dépôt contient les données et les fichiers de travail utilisés pour la réalisation de mon mémoire de Master 1, intitulé "Critères d'évaluation d'une démarche DevOps : panorama des dimensions de qualité, performance et sécurité". Ce mémoire a été réalisé dans le cadre du Master MIAGE (apprentissage) de l'Université Paris Nanterre.
 
 L'objectif principal du mémoire était de réaliser une cartographie exploratoire des critères d'évaluation d'une démarche DevOps, identifiés à partir d'une revue systématique de la littérature (Systematic Mapping Study - SMS) portant sur 20 articles scientifiques récents.
 
@@ -24,7 +24,7 @@ Le processus d'analyse des données s'est déroulé en plusieurs étapes, reflé
     *   **`Grille-d'extraction-finale.xlsx`**:
         *   Contient la grille d'extraction brute des 272 critères (identifiés de L2 à L273) issus des 20 articles analysés. Chaque ligne correspond à un critère avec ses métadonnées initiales.
     *   **`csv-format-Grille-d'extraction-finale.csv`**:
-        *   Version au format CSV de la grille d'extraction finale. Ce format est souvent plus adapté pour les analyses automatisées et l'import dans divers outils.
+        *   Version au format CSV de la grille d'extraction finale. Ce format est plus adapté pour les analyses automatisées et l'import dans divers outils.
 
 2.  **Étape 2 : Regroupement automatique initial des critères**
     *   **`generate-clusters.py`**:
@@ -62,9 +62,8 @@ Le processus d'analyse des données s'est déroulé en plusieurs étapes, reflé
     Les fichiers `.csv` peuvent être ouverts avec n'importe quel éditeur de texte ou importés dans des tableurs ou des outils d'analyse de données.
 
 3.  **Exécution du script de clustering (`generate-clusters.py`) :**
-    *   Assurez-vous d'avoir un environnement Python 3.x installé.
-    *   Ce script peut nécessiter des bibliothèques Python pour le traitement du langage naturel (NLP) et le clustering (par exemple, `pandas`, `nltk`, `scikit-learn`, `sentence-transformers` ou similaires). Veuillez vérifier les `import` au début du script pour connaître les dépendances exactes et les installer (par exemple, via `pip install -r requirements.txt` si un tel fichier est fourni, ou `pip install <nom_bibliotheque>`).
-    *   Le script est conçu pour prendre en entrée un fichier CSV (probablement `csv-format-Grille-d'extraction-finale.csv` ou une version adaptée) et produire un fichier Excel avec les clusters.
+    *   Assurez-vous d'avoir un environnement Python 3 installé.
+    *   Le script est conçu pour prendre en entrée un fichier CSV (`csv-format-Grille-d'extraction-finale.csv`) et produire un fichier Excel avec les clusters.
     ```bash
     python generate-clusters.py
     ```
@@ -84,4 +83,4 @@ Ce travail s’appuie notamment sur les méthodologies décrites par :
 
 ### 📧 Contact
 
-Pour toute question, suggestion ou information complémentaire concernant ce dépôt ou le mémoire associé, veuillez contacter Hana Ouraghene à l'adresse suivante : `44013266@parisnanterre.fr`
+Pour toute question, suggestion ou information complémentaire concernant ce dépôt ou le mémoire associé, veuillez me contacter à l'adresse suivante : `44013266@parisnanterre.fr`
