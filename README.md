@@ -45,8 +45,9 @@ Analyse des top-critères et des contributions (Sections 3.5 et 3.6 du mémoire 
 - Références
 
 Ce travail s’appuie notamment sur :
-	•	Kitchenham et Charters (2007) – Guidelines for performing Systematic Literature Reviews in Software Engineering
-	•	Petersen et al. (2008) – Systematic Mapping Studies in Software Engineering
+
+- Kitchenham et Charters (2007) – Guidelines for performing Systematic Literature Reviews in Software Engineering
+- Petersen et al. (2008) – Systematic Mapping Studies in Software Engineering
 
 - Utilisation
   
